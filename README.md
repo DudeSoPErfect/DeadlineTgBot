@@ -7,7 +7,7 @@ The program runs a telegram bot on the machine, which monitors the deadlines of 
 * **main.cpp** - The main program file. 
 
 ### How to launch
-1. Upload the file to the machine.
+1. Upload files to the machine.
 2. Create a telegram bot and get a unique token (you can read about it on the official website)
 3. Insert the token into the required field at the beginning of the interpreted code.
 4. Launch and add the bot to the group (if necessary)
